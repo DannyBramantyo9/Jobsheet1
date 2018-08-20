@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class PilihanMenu {
     public static void main(String[] args) {
         Scanner masukan = new Scanner(System.in);
-        int pilihan =9;
+        int pilihan = 9;
         do{
             System.out.println("\n Menu Luas Bangun\n");
             System.out.println("1. Menghitung Luas Persegi ");
@@ -40,7 +40,7 @@ public class PilihanMenu {
         
     }
     private static void luasPersegiPanjang(){
-        Scanner masukan new Scanner(System.in);
+        Scanner masukan = new Scanner(System.in);
         float panjang,lebar,luas;
         System.out.println("Masukkan nilai panjang : ");
         panjang = masukan.nextFloat();
