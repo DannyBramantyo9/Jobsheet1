@@ -20,9 +20,11 @@ public class PernyataanWhile {
             System.out.print("Masukkan bilangan ke-"+a+" : ");
             bil = masukan.nextInt();
             total += bil;
+            
         }
-        System.out.println("Total jumlah "+(a-1)+"bilangan : ");
+        System.out.println("Total jumlah "+(a-1)+" bilangan : "+total);
         System.out.println("total");
+        
     }
     
 }
