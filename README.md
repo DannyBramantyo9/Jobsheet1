@@ -37,3 +37,19 @@
 ![alt text](https://github.com/DannyBramantyo9/Jobsheet1/blob/master/Hasil%20JS1/PilihanKondisi.png)
 * Variabel <br>
 ![alt text](https://github.com/DannyBramantyo9/Jobsheet1/blob/master/Hasil%20JS1/Variabel.png)
+
+# Modul 1 Lanjutan
+
+* Fungsi Rekursif <br>
+![alt text](https://github.com/DannyBramantyo9/Jobsheet1/blob/master/HasilMod1Lanjutan/3.png)
+
+* Fungsi Pilihan Menu <br>
+![alt text](https://github.com/DannyBramantyo9/Jobsheet1/blob/master/HasilMod1Lanjutan/1.png)
+
+* Fungsi Pengembalian Nilai <br>
+![alt text](https://github.com/DannyBramantyo9/Jobsheet1/blob/master/HasilMod1Lanjutan/2.png)
+
+* Fungsi Do While <br>
+![alt text](https://github.com/DannyBramantyo9/Jobsheet1/blob/master/HasilMod1Lanjutan/4.png)
+
+
